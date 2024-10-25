@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Taman_Monas</name>
+    <NetworkLink>
+      <name>Area Hijau Terbuka Daerah Jakarta</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1I0qdzab2k9k2H56TPz4O2DMO81-sZRk&lid=ka8RlzEsqRo]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
